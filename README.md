@@ -1,23 +1,23 @@
 # YouTube-Clone
 **Demo:**
-List videos
-Watch a video
-Sign in/out
-Upload a video
-Watch the transcoded video
+List videos,
+Watch a video,
+Sign in/out,
+Upload a video,
+Watch the transcoded video,
 
 **Tech Stack:**
-TypeScript
-Next.js
-Express.js
-Docker
-FFmpeg
-Firebase Auth
-Firebase Functions
-Firebase Firestore
-Google Cloud Storage
-Google Cloud Pub/Sub
-Google Cloud Run
+TypeScript,
+Next.js,
+Express.js,
+Docker,
+FFmpeg,
+Firebase Auth,
+Firebase Functions,
+Firebase Firestore,
+Google Cloud Storage,
+Google Cloud Pub/Sub,
+Google Cloud Run,
 
 **Architecture:**
 Cloud Storage will store the raw and processed videos uploaded by users.
